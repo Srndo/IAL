@@ -1,0 +1,3 @@
+clear
+gcc -Wall -std=c99 -pedantic -lm -o c206-advanced-test c206.c c206-advanced-test.c
+valgrind ./c206-advanced-test

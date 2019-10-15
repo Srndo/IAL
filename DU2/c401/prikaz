@@ -1,0 +1,3 @@
+clear
+gcc -Wall -std=c99 -pedantic -lm -o c401-advanced-test c401.c c401-advanced-test.c
+./c401-advanced-test > advanced.c

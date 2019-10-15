@@ -1,0 +1,3 @@
+clear
+gcc -Wall -std=c99 -pedantic -lm -o c016-advanced-test c016.c c016-advanced-test.c
+./c016-advanced-test > advanced.c
